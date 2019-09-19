@@ -1,1 +1,69 @@
+body {
+    width:650px;
+    background: linear-gradient(to bottom,#3366ff,#ffcc99);
+    height:650px;
+        
+}
+h1 {
+    position:relative;
+    left:550px;
+    color:white;
+    background-color:55C433;
+    width:400px;
+}
+#internet {
+    width:600px;
+    height:500px;
+    position:relative;
+    left:770px;
+    top:-150px;
+}
 
+#countries {
+    width:600px;
+    height:500px;
+    position:relative;
+    top:-300px; 
+    
+}
+#bad {
+    position:relative;
+    left:100px;
+    color:white;
+    background-color:E88829;
+    width:340px;
+    font-size: 30px;
+    width: 430px;
+}
+#good {
+    position:relative;
+    left:850px;
+    width:350px;
+    background-color:3BA1E5;
+    color: white; 
+    font-size: 30px;
+    width: 430px;
+    top:-170px;
+}
+#poor {
+    position:relative;
+    left:700px;
+    
+}
+p {
+    color:white;
+}
+#dead  {
+    color:;
+    position:relative;
+    top:-520px;
+    font-size: 25px;
+    
+}
+#float {
+    position:relative;
+    left:700px;
+    top:150px;
+    font-size: 20px;
+    
+}
